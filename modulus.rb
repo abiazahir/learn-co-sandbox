@@ -11,4 +11,5 @@ def fizz_buss(int)
   end 
 end
 
+fizz_buzz(5)
     
