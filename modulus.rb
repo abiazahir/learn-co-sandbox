@@ -11,5 +11,5 @@ def fizz_buzz(int)
   end 
 end
 
-fizz_buzz(365)
+fizz_buzz(60)
     
