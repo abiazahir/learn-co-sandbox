@@ -1,3 +1,4 @@
+int=3
 def fizz_buss(int)
   if int%3 ==0
 puts "Fizz"
