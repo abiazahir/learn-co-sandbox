@@ -1,4 +1,4 @@
-int=(3)
+
 def fizz_buss(int)
   if int%15 ==0
 puts "FizzBuzz"
