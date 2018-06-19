@@ -13,5 +13,5 @@ else
   
 end
 
-fizz_buzz(
+fizz_buzz(5)
     
