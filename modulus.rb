@@ -7,8 +7,8 @@ puts "FizzBuzz"
   elsif int%3==0
   puts "Fizz"
 else
-  puts "nil" end
-  
+  puts "nil" 
+end 
 end
 
     
